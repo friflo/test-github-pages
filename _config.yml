@@ -1,6 +1,6 @@
 lsi: false
 safe: true
-source: [your repo's top level directory]
+name: Test Pages (friflo)
 incremental: false
 highlighter: rouge
 gist:
