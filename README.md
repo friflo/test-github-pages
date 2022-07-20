@@ -4,4 +4,4 @@
 [api](api/index.md)
 
 
-https://friflo.github.io/test-github-pages/
+[friflo.github.io/test-github-pages](https://friflo.github.io/test-github-pages/)
